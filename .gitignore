@@ -1,0 +1,11 @@
+# Build output
+build/
+
+# Installer output
+dist/
+
+# Editor settings
+.vscode/
+
+# Test files
+*.log
