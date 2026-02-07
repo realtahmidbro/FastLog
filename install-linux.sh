@@ -6,7 +6,7 @@ set -e
 REPO="AGDNoob/FastLog"
 BINARY_NAME="fastlog"
 INSTALL_DIR="/usr/local/bin"
-DOWNLOAD_URL="https://github.com/$REPO/releases/latest/download/fastlog-linux-x64"
+DOWNLOAD_URL="https://github.com/$REPO/releases/latest/download/FastLog-Setup-v1.0.0-Linux-x64"
 
 echo "FastLog Installer"
 echo "================="
