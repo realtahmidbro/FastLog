@@ -197,6 +197,7 @@ src/
 - C++17
 - CMake 3.16+
 - x86-64 (SSE2 minimum, AVX2 for full speed)
+- Windows or Linux (both tested)
 
 ## License
 
